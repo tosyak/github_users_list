@@ -1,0 +1,9 @@
+{
+  "usersList" : "Users List",
+  "userDetails" : "User Details",
+  "settings" : "Settings",
+  "language" : "Language",
+  "appTheme" : "App Theme",
+  "noInternet" : "No Internet Connection",
+  "pageNotFound" : "No Page Found"
+}
